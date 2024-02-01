@@ -1,0 +1,3 @@
+Fatal error: Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '@gmail.com, customer_address = paris WHERE id = 39' à la ligne 7 in C:\wamp64\www\web\admin\update_order.php on line 17
+( ! ) PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '@gmail.com, customer_address = paris WHERE id = 39' à la ligne 7 in C:\wamp64\www\web\admin\update_order.php on line 17
+Call Stack
